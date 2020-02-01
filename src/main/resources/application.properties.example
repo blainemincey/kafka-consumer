@@ -1,0 +1,7 @@
+##
+# SpringBoot Application Properties
+# run with maven?  mvn spring-boot:run
+# BE SURE TO RENAME ME TO application.properties
+#
+##
+

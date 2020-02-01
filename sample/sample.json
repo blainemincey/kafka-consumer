@@ -1,0 +1,45 @@
+{
+  "_id": {
+    "_data": "825E35CA71000000222B022C0100296E5A100441C997FBE52E44978D9C47FDF8D9821D46645F696400645E35CA71159BF83F2E6A2AB60004"
+  },
+  "operationType": "insert",
+  "clusterTime": {
+    "$timestamp": {
+      "t": 1580583537,
+      "i": 34
+    }
+  },
+  "fullDocument": {
+    "_id": {
+      "$oid": "5e35ca71159bf83f2e6a2ab6"
+    },
+    "city": "North Merlynbury",
+    "claimAmount": {
+      "$numberDecimal": "143898.26"
+    },
+    "claimType": "Life",
+    "dateClaimSubmitted": {
+      "$date": 1466531937680
+    },
+    "email": "carman.bayer@example.com",
+    "employer": "Watsica LLC",
+    "gender": "Male",
+    "healthProvider": "HURON REGIONAL MEDICAL CENTER",
+    "maritalStatus": "Divorced",
+    "name": "Fred Daniel DVM",
+    "phoneNumber": "1-493-241-0615",
+    "state": "TX",
+    "streetAddress": "034 Tracy Club",
+    "title": "National Director",
+    "zip": "84643"
+  },
+  "ns": {
+    "db": "sourceDatabase",
+    "coll": "sourceClaimsCollection"
+  },
+  "documentKey": {
+    "_id": {
+      "$oid": "5e35ca71159bf83f2e6a2ab6"
+    }
+  }
+}
